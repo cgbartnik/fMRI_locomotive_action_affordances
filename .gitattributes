@@ -1,0 +1,6 @@
+* text=auto
+
+# Keep scripts and source files using LF endings
+*.py text eol=lf
+*.sh text eol=lf
+*.ipynb text eol=lf
