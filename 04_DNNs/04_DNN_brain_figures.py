@@ -1,3 +1,4 @@
+import sys
 import os
 import numpy as np
 import pandas as pd
@@ -5,7 +6,9 @@ import matplotlib.pyplot as plt
 
 from scipy.spatial.distance import squareform
 from scipy.stats import spearmanr, ttest_1samp
-from .data_paths import get_dnn_rdm_root, brain_path
+
+from data_paths import get_dnn_rdm_root, brain_path
+
 
 
 # ---------------------------------------------------------------------

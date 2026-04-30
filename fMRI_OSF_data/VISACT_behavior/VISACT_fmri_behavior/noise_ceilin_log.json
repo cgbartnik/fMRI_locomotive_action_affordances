@@ -1,0 +1,14 @@
+{
+    "fmri_behavior_action_rdms.npz": {
+        "lnc": 0.4923248079960444,
+        "unc": 0.5350300081331989
+    },
+    "fmri_behavior_fixation_rdms.npz": {
+        "lnc": 0.27840253454360964,
+        "unc": 0.3353611746166053
+    },
+    "fmri_behavior_object_rdms.npz": {
+        "lnc": 0.2997790101101838,
+        "unc": 0.35620503193103936
+    }
+}

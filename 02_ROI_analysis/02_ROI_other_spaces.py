@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import sys
 import os
 import numpy as np
 import pandas as pd
@@ -7,6 +8,11 @@ import matplotlib.pyplot as plt
 from scipy.spatial.distance import squareform
 from scipy.stats import ttest_1samp, ttest_rel, spearmanr
 import pingouin as pg
+
+REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+if REPO_ROOT not in sys.path:
+    sys.path.insert(0, REPO_ROOT)
+
 from data_paths import behavior_path, brain_path, rdm_collection_path
 
 # ---------------------------------------------------------------------
@@ -173,7 +179,7 @@ def compute_and_plot_partial_correlations(
                     "roi": roi_name,
                     "subject": sub_name,
                     "correlation": pc_behavior["r"].values[0],
-                    "p-value": pc_behavior["p-val"].values[0],
+                    "p-value": pc_behavior["p_val"].values[0],
                     "lower_nc": lower_nc,
                     "higher_nc": upper_nc,
                 }
@@ -194,7 +200,7 @@ def compute_and_plot_partial_correlations(
                     "roi": roi_name,
                     "subject": sub_name,
                     "correlation": pc_global["r"].values[0],
-                    "p-value": pc_global["p-val"].values[0],
+                    "p-value": pc_global["p_val"].values[0],
                     "lower_nc": lower_nc,
                     "higher_nc": upper_nc,
                 }

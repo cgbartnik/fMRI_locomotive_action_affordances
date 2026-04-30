@@ -40,7 +40,7 @@ from typing import Union, Optional, Dict, List, Tuple
 
 # Paths for data (adapt to your environment as needed)
 
-DATA_BASE = "/home/clemens-uva/fs4/fMRI_OSF_data/"
+DATA_BASE = "/home/cle/projects/PhD/fMRI_locomotive_action_affordances/fMRI_OSF_data/"
 IMG_FULL_SET = os.path.join(
     DATA_BASE, "full_image_set"
 )

@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import spearmanr
 from scipy.spatial.distance import squareform
 from statsmodels.stats.multitest import multipletests
-from .data_paths import get_dnn_rdm_root, rdm_collection_path
+from data_paths import get_dnn_rdm_root, rdm_collection_path
 
 
 # ---------------------------------------------------------------------

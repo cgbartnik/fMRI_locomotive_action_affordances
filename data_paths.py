@@ -7,7 +7,7 @@ directory; otherwise the default below is used.
 
 import os
 
-DEFAULT_DATA_ROOT = "/home/clemens-uva/fs4/fMRI_OSF_data"
+DEFAULT_DATA_ROOT = "/home/cle/projects/PhD/fMRI_locomotive_action_affordances/fMRI_OSF_data"
 
 
 def get_data_root() -> str:

@@ -1,3 +1,4 @@
+import sys
 import os
 import numpy as np
 import matplotlib.pyplot as plt
@@ -6,6 +7,11 @@ from nilearn.image import load_img, resample_to_img, math_img
 from nilearn.masking import apply_mask
 from nilearn.datasets import fetch_atlas_juelich
 from scipy.stats import sem, wilcoxon
+
+REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+if REPO_ROOT not in sys.path:
+    sys.path.insert(0, REPO_ROOT)
+
 from data_paths import searchlight_base_path, searchlight_partial_path
 
 

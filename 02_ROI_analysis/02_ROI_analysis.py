@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import sys
 import os
 import numpy as np
 import pandas as pd
@@ -8,6 +9,11 @@ from scipy.stats import spearmanr, ttest_1samp
 from scipy.spatial.distance import squareform
 import scipy.stats as stats
 import pingouin as pg
+
+REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+if REPO_ROOT not in sys.path:
+    sys.path.insert(0, REPO_ROOT)
+
 from data_paths import behavior_path, brain_path
 
 # ---------------------------------------------------------------------
@@ -519,7 +525,7 @@ def run_partial_correlations(
                     "roi": roi_name,
                     "subject": sub_name,
                     "correlation": pc_action["r"].values[0],
-                    "p-value": pc_action["p-val"].values[0],
+                    "p-value": pc_action["p_val"].values[0],
                     "lower_nc": lower_nc,
                     "higher_nc": upper_nc,
                 }
@@ -540,7 +546,7 @@ def run_partial_correlations(
                     "roi": roi_name,
                     "subject": sub_name,
                     "correlation": pc_object["r"].values[0],
-                    "p-value": pc_object["p-val"].values[0],
+                    "p-value": pc_object["p_val"].values[0],
                     "lower_nc": lower_nc,
                     "higher_nc": upper_nc,
                 }
@@ -633,7 +639,7 @@ def run_mean_behavior_partial_correlations(
                     "roi": roi_name,
                     "subject": sub_name,
                     "correlation": pc_action["r"].values[0],
-                    "p-value": pc_action["p-val"].values[0],
+                    "p-value": pc_action["p_val"].values[0],
                     "lower_nc": lower_nc,
                     "higher_nc": upper_nc,
                 }
@@ -654,7 +660,7 @@ def run_mean_behavior_partial_correlations(
                     "roi": roi_name,
                     "subject": sub_name,
                     "correlation": pc_object["r"].values[0],
-                    "p-value": pc_object["p-val"].values[0],
+                    "p-value": pc_object["p_val"].values[0],
                     "lower_nc": lower_nc,
                     "higher_nc": upper_nc,
                 }

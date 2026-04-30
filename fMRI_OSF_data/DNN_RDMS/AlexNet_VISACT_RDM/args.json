@@ -1,0 +1,5 @@
+{
+    "distance": "pearson",
+    "feat_dir": "/home/clemens-uva/Github_repos/Visact_fMRI/code/DNN_features/AlexNet_VISACT_Feat",
+    "save_dir": "/home/clemens-uva/Github_repos/Visact_fMRI/code/DNN_RDMS/AlexNet_VISACT_RDM"
+}

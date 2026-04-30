@@ -11,7 +11,7 @@ only need to change paths once.
 import os
 
 # Default roots for OSF downloads on this machine.
-DEFAULT_OSF_ROOT = "/home/clemens-uva/fs4/fMRI_OSF_data"
+DEFAULT_OSF_ROOT = "/home/cle/projects/PhD/fMRI_locomotive_action_affordances/fMRI_OSF_data"
 DEFAULT_DNN_RDM_ROOT = os.path.join(DEFAULT_OSF_ROOT, "DNN_RDMS")
 
 

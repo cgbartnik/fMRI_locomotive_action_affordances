@@ -1,0 +1,232 @@
+,actions
+0264_indoor,walking
+0231_indoor,walking
+0172_outdoor_manmade,walking
+0123_outdoor_manmade,"walking, biking, driving"
+0078_outdoor_natural,"boating, swimming"
+0278_indoor,walking
+0031_outdoor_natural,"walking, boating, swimming"
+0079_outdoor_natural,"boating, swimming"
+0173_outdoor_manmade,"boating, swimming"
+0170_outdoor_manmade,"walking, climbing"
+0183_outdoor_manmade,"walking, running, biking"
+0100_indoor,"walking, running, biking"
+0090_outdoor_natural,"boating, swimming"
+0137_indoor,"walking, biking"
+0182_outdoor_manmade,"walking, biking"
+0171_outdoor_manmade,walking
+0088_outdoor_natural,"walking, climbing"
+0253_outdoor_manmade,"walking, biking, climbing"
+0062_outdoor_natural,"walking, swimming"
+0202_outdoor_manmade,"walking, running, biking"
+0091_outdoor_natural,"walking, boating, swimming"
+0144_outdoor_natural,"walking, biking, running"
+0242_indoor,walking
+0168_outdoor_manmade,"walking, running, biking"
+0239_indoor,"walking, climbing"
+0177_outdoor_manmade,"walking, biking"
+0019_outdoor_manmade,"walking, running, biking"
+0113_outdoor_natural,"walking, climbing, swimming"
+0097_outdoor_natural,"walking, running, biking"
+0204_outdoor_manmade,"walking, running, biking, driving"
+0261_outdoor_natural,"walking, running, biking, climbing"
+0230_outdoor_natural,"walking, running"
+0127_outdoor_manmade,"walking, climbing"
+0212_indoor,walking
+0176_outdoor_manmade,"walking, biking"
+0058_indoor,"walking, climbing"
+0270_indoor,climbing
+0034_outdoor_natural,"walking, running, boating"
+0096_outdoor_natural,"walking, running, biking, climbing"
+0018_outdoor_manmade,"walking, running, climbing"
+0184_indoor,walking
+0095_outdoor_natural,"walking, biking, climbing"
+0111_outdoor_natural,"walking, running, biking, driving"
+0257_outdoor_manmade,"walking, biking, driving"
+0175_outdoor_manmade,"boating, swimming"
+0124_outdoor_manmade,"walking, biking, driving"
+0186_outdoor_manmade,"walking, running, biking"
+0234_indoor,walking
+0108_outdoor_natural,"walking, biking"
+0282_indoor,"walking, swimming"
+0256_outdoor_manmade,"walking, running, biking, driving"
+0158_outdoor_natural,walking
+0125_outdoor_manmade,"walking, running, biking"
+0055_indoor,walking
+0104_outdoor_natural,"boating, swimming"
+0179_outdoor_manmade,"walking, biking"
+0146_indoor,walking
+0193_outdoor_manmade,"walking, biking, driving"
+0046_outdoor_manmade,"walking, running, biking"
+0131_outdoor_manmade,"walking, boating, swimming"
+0099_outdoor_natural,"walking, running, biking, climbing"
+0129_outdoor_manmade,"walking, biking, driving"
+0266_indoor,"walking, climbing"
+0105_outdoor_natural,"boating, swimming, climbing"
+0233_indoor,walking
+0023_outdoor_natural,"walking, climbing"
+0098_outdoor_natural,"walking, running, biking, climbing"
+0161_outdoor_manmade,"walking, swimming"
+0227_outdoor_natural,"walking, running"
+0015_outdoor_manmade,"walking, biking, driving"
+0191_outdoor_manmade,"walking, running, biking"
+0275_outdoor_natural,"walking, running, biking, boating, swimming"
+0162_outdoor_manmade,"walking, biking, driving"
+0133_outdoor_manmade,"walking, driving"
+0215_indoor,"walking, climbing"
+0188_outdoor_manmade,"walking, running, biking"
+0277_indoor,"walking, running, biking"
+0240_outdoor_manmade,"walking, biking"
+0106_outdoor_natural,"walking, biking, running, climbing"
+0045_outdoor_manmade,"walking, biking, running"
+0258_outdoor_manmade,"walking, biking"
+0083_outdoor_natural,"walking, running, biking, climbing"
+0209_indoor,walking
+0135_indoor,walking
+0102_indoor,walking
+0189_outdoor_manmade,"walking, running, biking"
+0021_indoor,"walking, running, biking"
+0245_indoor,"walking, biking"
+0165_outdoor_manmade,"walking, boating"
+0038_indoor,walking
+0272_indoor,climbing
+0027_outdoor_natural,"walking, running, biking"
+0247_outdoor_manmade,"walking, running, biking"
+0085_outdoor_natural,"walking, biking, climbing"
+0101_outdoor_natural,"walking, running, biking"
+0273_outdoor_natural,"boating, swimming"
+0259_indoor,"walking, skating"
+0130_indoor,"walking, climbing"
+0084_outdoor_natural,"walking, climbing"
+0217_outdoor_manmade,"walking, running, biking, driving"
+0280_indoor,walking
+0035_indoor,walking
+0167_outdoor_manmade,"walking, running, biking, driving"
+0143_indoor,walking
+0057_indoor,"walking, running"
+0059_outdoor_manmade,"walking, biking, driving"
+0153_outdoor_natural,"walking, boating, swimming"
+0075_outdoor_natural,"walking, climbing"
+0263_indoor,walking
+0236_indoor,walking
+0195_outdoor_manmade,"walking, climbing"
+0040_outdoor_manmade,"walking, running, biking, driving"
+0132_outdoor_natural,"walking, running, climbing"
+0238_indoor,walking
+0072_indoor,walking
+0070_outdoor_manmade,"walking, biking"
+0210_outdoor_natural,"walking, climbing"
+0068_outdoor_manmade,"walking, biking, driving"
+0185_indoor,"walking, running, biking"
+0157_outdoor_manmade,swimming
+0224_indoor,walking
+0271_indoor,"walking, climbing"
+0154_outdoor_manmade,"walking, boating"
+0235_indoor,"walking, climbing"
+0178_outdoor_natural,"walking, boating, biking, driving"
+0276_outdoor_manmade,"walking, running, biking, climbing"
+0080_indoor,walking
+0128_outdoor_natural,"walking, swimming, boating"
+0036_indoor,walking
+0155_outdoor_manmade,"walking, swimming"
+0140_indoor,walking
+0054_indoor,walking
+0229_indoor,walking
+0160_outdoor_natural,"walking, boating, swimming"
+0283_indoor,"walking, running, biking"
+0017_outdoor_natural,"walking, climbing"
+0024_outdoor_manmade,"walking,biking"
+0008_outdoor_natural,"walking, climbing"
+0220_outdoor_manmade,"walking, running, biking, driving"
+0011_outdoor_natural,"walking, biking"
+0166_outdoor_natural,"walking, running, swimming"
+0265_indoor,walking
+0159_indoor,walking
+0009_outdoor_natural,climbing
+0152_outdoor_manmade,"walking, climbing"
+0087_outdoor_manmade,"walking, biking, driving"
+0074_outdoor_manmade,"walking, biking"
+0033_indoor,"walking, climbing"
+0279_indoor,walking
+0066_indoor,"walking, running, biking, driving"
+0010_outdoor_natural,climbing
+0145_indoor,driving
+0119_outdoor_manmade,"walking, running, biking, driving"
+0163_indoor,"walking, running, climbing"
+0148_outdoor_manmade,"walking, swimming"
+0042_outdoor_natural,"boating, swimming, climbing"
+0136_indoor,"walking, biking"
+0013_outdoor_natural,"walking, climbing"
+0268_indoor,"walking, swimming"
+0246_outdoor_natural,"walking, swimming, boating"
+0026_outdoor_manmade,"walking, running, biking"
+0151_outdoor_manmade,"walking, running, biking"
+0221_indoor,"walking, running, biking"
+0216_indoor,walking
+0043_outdoor_natural,"walking, biking, running"
+0243_indoor,walking
+0274_indoor,"walking, running"
+0149_outdoor_manmade,"walking, running, biking, boating"
+0150_outdoor_manmade,"walking, biking, driving"
+0076_outdoor_manmade,walking
+0120_outdoor_natural,"walking, running"
+0226_indoor,walking
+0211_indoor,"walking, running"
+0115_outdoor_manmade,"walking, climbing"
+0244_indoor,walking
+0007_outdoor_natural,"walking, running, biking"
+0121_outdoor_natural,"walking, running, biking"
+0089_outdoor_manmade,"walking, boating"
+0032_outdoor_manmade,"walking, running, biking, driving"
+0203_outdoor_natural,"walking, climbing"
+0252_outdoor_natural,"walking, climbing"
+0063_outdoor_manmade,"walking, running, biking, driving"
+0164_indoor,walking
+0025_indoor,"walking, running"
+0117_outdoor_manmade,"walking, driving"
+0093_outdoor_manmade,"walking, biking"
+0060_outdoor_manmade,"walking, climbing"
+0251_outdoor_natural,"boating, swimming"
+0249_indoor,"walking, running, biking"
+0200_outdoor_natural,"boating, swimming"
+0199_outdoor_natural,"boating, swimming, climbing"
+0056_indoor,walking
+0004_outdoor_natural,"walking, running, biking"
+0281_indoor,"walking, running, dancing"
+0028_outdoor_manmade,"walking, biking"
+0262_indoor,walking
+0198_outdoor_natural,"boating, swimming"
+0250_outdoor_natural,"walking, climbing"
+0030_outdoor_manmade,"walking, biking, driving"
+0237_indoor,"walking, running"
+0147_outdoor_manmade,"walking, boating"
+0092_outdoor_manmade,"walking, boating"
+0218_outdoor_natural,"walking, boating"
+0181_outdoor_natural,"walking, swimming"
+0005_outdoor_natural,"walking, running, biking"
+0110_outdoor_manmade,"walking, running, biking, driving"
+0067_outdoor_manmade,"walking, biking, running"
+0207_outdoor_natural,"walking, running, biking"
+0052_outdoor_natural,"walking, climbing"
+0003_outdoor_natural,"walking, biking, running, climbing"
+0109_outdoor_manmade,"walking, biking, driving"
+0206_outdoor_natural,"walking, running, biking"
+0139_indoor,walking
+0053_outdoor_natural,"walking, running, biking"
+0002_outdoor_natural,"walking, boating, swimming"
+0232_indoor,walking
+0214_indoor,walking
+0241_indoor,walking
+0001_outdoor_natural,"walking, running, driving"
+0050_outdoor_natural,"walking, climbing"
+0049_outdoor_natural,"walking, climbing"
+0205_outdoor_natural,"walking, running, boating, swimming"
+0065_outdoor_manmade,"walking, running, biking"
+0254_outdoor_natural,"walking, running, swimming, boating"
+0156_indoor,swimming
+0126_outdoor_natural,"walking, biking, running"
+0208_indoor,walking
+0103_indoor,walking
+0255_outdoor_natural,"walking, swimming, boating"
+0064_outdoor_manmade,"walking, biking, driving"
+0142_outdoor_manmade,walking

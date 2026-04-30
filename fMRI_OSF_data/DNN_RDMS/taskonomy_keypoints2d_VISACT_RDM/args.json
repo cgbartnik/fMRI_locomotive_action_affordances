@@ -1,0 +1,5 @@
+{
+    "distance": "pearson",
+    "feat_dir": "/home/clemens-uva/Github_repos/Visact_fMRI/code/DNN_features/taskonomy_keypoints2d_VISACT_Feat",
+    "save_dir": "/home/clemens-uva/Github_repos/Visact_fMRI/code/DNN_RDMS/taskonomy_keypoints2d_VISACT_RDM"
+}

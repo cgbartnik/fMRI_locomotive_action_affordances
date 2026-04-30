@@ -1,3 +1,4 @@
+import sys
 import os
 import warnings
 
@@ -8,6 +9,11 @@ import pingouin as pg
 from nilearn.image import new_img_like, load_img
 from rsatoolbox.util.searchlight import get_volume_searchlight, get_searchlight_RDMs
 from scipy.spatial.distance import squareform
+
+REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+if REPO_ROOT not in sys.path:
+    sys.path.insert(0, REPO_ROOT)
+    
 from data_paths import bids_output_path, rdm_collection_path
 
 warnings.filterwarnings("ignore", category=FutureWarning)

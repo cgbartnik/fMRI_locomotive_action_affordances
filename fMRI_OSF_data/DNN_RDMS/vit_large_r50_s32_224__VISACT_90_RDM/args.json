@@ -1,0 +1,5 @@
+{
+    "distance": "pearson",
+    "feat_dir": "/home/clemens-uva/Github_repos/Visact_fMRI/code/DNN_features/vit_large_r50_s32_224_VISACT_Feat",
+    "save_dir": "/home/clemens-uva/Github_repos/Visact_fMRI/code/DNN_RDMS/vit_large_r50_s32_224__VISACT_90_RDM"
+}
